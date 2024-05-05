@@ -30,7 +30,7 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 [foreign_investment.ipynb](https://colab.research.google.com/drive/10zmUkPEBUL1Csigq8kbgKH4TM_tn__3U?usp=sharing)
 
 # Data Visualization:
-## FDI Analysis in India from FY 2000-01 to 2016-17
+## FDI Analysis in India from FY 2000-01 to 2016-17 :
 * **2000 - 01 :**
 
   **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2000-01/FDI_2000-01?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
