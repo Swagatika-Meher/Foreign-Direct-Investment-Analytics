@@ -32,6 +32,7 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 # Data Visualization:
 ## FDI Analysis in India from FY 2000-01 to 2016-17
 * **2000 - 01 :**
+
   **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2000-01/FDI_2000-01?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
   ![FDI_2000-01](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/95f748fb-ab77-4be7-a8c8-e8dd8c571b09)
