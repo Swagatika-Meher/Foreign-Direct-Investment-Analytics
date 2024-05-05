@@ -79,6 +79,67 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 
   ![FDI_2007-08](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/cae16448-9f49-4244-97a2-b5bdddc36607)
 
+* **2008 - 09 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2008-09/FDI_2008-09?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2008-09](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/79f1bd6e-bb76-4180-9313-68811e40aba0)
+
+* **2009 - 10 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2009-10/FDI_2009-10?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2009-10](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/caccf8df-5fde-478e-9e01-eb4eed1bd077)
+
+* **2010 - 11 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2010-11/FDI_2010-11?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2010-11](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/0966901f-0736-4b6f-acc9-0ef0ab18d2f1)
+
+* **2011 - 12 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2011-12/FDI_2011-12?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2011-12](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/48b4e2ce-221e-4010-af5a-a067f65257fd)
+
+* **2012 - 13 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2012-13/FDI_2012-13?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2012-13](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/240b28ae-e11a-4fb4-9c1a-2643ebd8f09e)
+
+* **2013 - 14 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2013-14/FDI_2013-14?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2013-14](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/1fed63e7-15ff-4cef-a547-88d35196013e)
+
+* **2014 - 15 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2014-15/FDI_2014-15?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2014-15](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/12b91259-5767-4951-b586-3935556dac33)
+
+* **2015 - 16 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2015-16/FDI_2015-16?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2015-16](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/603000ee-a128-438d-9b45-5c6e012dffe7)
+
+* **2016 - 17 :**
+
+  **Tableau Link** : Click [here](https://public.tableau.com/views/FDI_2016-17/FDI_2016-17?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+  ![FDI_2016-17](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/7201d1f6-f938-428a-bd65-1618bdeebcb7)
+
+# Conclusion
+* Each financial year, we can see from the Tableau dashboard observations that every sector is making an effort to invest as much as possible.
+* Because certain industries invest more than others, some invest less, and some don't invest at all during the financial years. 
+* The SERVICES SECTOR (Fin., Banking, Insurance, Non Fin/Business, Outsourcing, R&D, Courier, Tech. Testing and Analysis, Other) and Computer Software& Hardware Components & Some sectors are attempting to invest larger sums than the other industries. 
+* Certain sectors make investments each financial year, regardless of how the trend shifts.
+* MATHEMATICAL,SURVEYING AND DRAWING INSTRUMENTS is the sector with maximum number of financial years with zero  investment.
+
 
 
 
