@@ -145,6 +145,7 @@ https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/11
 * The SERVICES SECTOR (Fin., Banking, Insurance, Non Fin/Business, Outsourcing, R&D, Courier, Tech. Testing and Analysis, Other) and Computer Software& Hardware Components & Some sectors are attempting to invest larger sums than the other industries. 
 * Certain sectors make investments each financial year, regardless of how the trend shifts.
 * MATHEMATICAL,SURVEYING AND DRAWING INSTRUMENTS is the sector with maximum number of financial years with zero  investment.
+* Maximum investment has been done in the year 2016-17 and lowest investment has been done in 2003-04.
 
 
 
