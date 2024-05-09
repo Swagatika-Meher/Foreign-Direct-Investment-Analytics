@@ -133,6 +133,12 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 
   ![FDI_2016-17](https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/7201d1f6-f938-428a-bd65-1618bdeebcb7)
 
+# Overview
+
+  **Tableau Dashboard** : Click [here](https://public.tableau.com/app/profile/swagatika.meher/viz/FDI_Analytics_dashboard/FDI_Analytics_dashboard)
+
+https://github.com/Swagatika-Meher/Foreign-Direct-Investment-Analytics/assets/114692581/a8e7c18a-6cfb-49da-a2c8-a375f1eee19a
+  
 # Conclusion
 * Each financial year, we can see from the Tableau dashboard observations that every sector is making an effort to invest as much as possible.
 * Because certain industries invest more than others, some invest less, and some don't invest at all during the financial years. 
